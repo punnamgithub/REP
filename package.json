@@ -1,7 +1,6 @@
 {
   "name": "cypress-demo-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^10.7.0"
-  }
+    "cypress": "^10.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punnamgithub/REP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/punnamgithub/REP/issues"
+  },
+  "homepage": "https://github.com/punnamgithub/REP#readme",
+  "description": ""
 }

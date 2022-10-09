@@ -8,6 +8,7 @@ describe('Test Spec', () => {
     expect(Test.id).to.eq(4)
     expect(Test.available).to.eq(false)
 
+	//cy.log
     
   }
   )
