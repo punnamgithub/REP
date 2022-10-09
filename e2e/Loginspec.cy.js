@@ -6,9 +6,11 @@ describe('Test Spec', () => {
   .then( Test => {
     expect(Test.color).to.eq("red")
     expect(Test.id).to.eq(4)
+	
+	
     expect(Test.available).to.eq(false)
 
-	//cy.log
+	//Aravind -- Merge Request Details
     
   }
   )
